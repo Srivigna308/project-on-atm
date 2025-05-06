@@ -92,21 +92,37 @@ Once any one of the verification methods is successful, the user is granted acce
 Start
 
   ↓
+  
 Enter Account Number & Password
+
   ↓
+  
 If valid → Show 3 verification options:
+
   → 1. Facial Recognition
+  
   → 2. Family Access
+  
   → 3. OTP
+  
   ↓
+  
 If any verification is successful
+
   ↓
+  
 Access Main Dashboard
+
   ↓
+  
 Choose Function (Transfer / Balance / Deposit / Withdraw)
+
   ↓
+  
 After operation, choose to Logout or return to Dashboard
+
   ↓
+  
 End
 
 Would you like a UI/UX wireframe or diagram to visualize this system?
