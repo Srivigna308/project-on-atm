@@ -1,7 +1,7 @@
 # project-on-atm
 3 verifications for an atm that is cardless like face recognition, family access, otp 
 
-💡 **Project Title:
+💡 Project Title:
 Facial Recognition Based ATM System with Multi-Layered Verification Options
 
 📘 Project Overview:
@@ -125,5 +125,4 @@ After operation, choose to Logout or return to Dashboard
   
 End
 
-Would you like a UI/UX wireframe or diagram to visualize this system?
 
