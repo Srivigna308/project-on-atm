@@ -1,16 +1,10 @@
 # project-on-atm
 3 verifications for an atm that is cardless like face recognition, family access, otp 
-Here’s a detailed project description and system flow for your **Facial Recognition Based ATM System with Multi-layered Verification**:
 
----
+💡 **Project Title:
+Facial Recognition Based ATM System with Multi-Layered Verification Options
 
-## 💡 **Project Title:**
-
-**Facial Recognition Based ATM System with Multi-Layered Verification Options**
-
----
-
-## 📘 **Project Overview:**
+📘 Project Overview:
 
 This project presents a secure, cardless ATM system that enhances security and user experience through facial recognition, family access authorization, and OTP-based verification. Instead of relying on physical ATM cards, users authenticate using an account number and password, followed by one of three advanced verification methods, before accessing typical ATM services such as transfer, balance inquiry, deposit, and withdrawal.
 
@@ -61,9 +55,9 @@ An elderly parent can't remember their password, so their child can authorize on
 
  📋 Post-Verification: Functional Dashboard
 
-Once any one of the verification methods is successful, the user is granted access to the **main ATM functionalities**.
+Once any one of the verification methods is successful, the user is granted access to the main ATM functionalities.
 
-### Main Dashboard Options:
+ Main Dashboard Options:
 
 1. 🔁 Money Transfer
 
@@ -91,12 +85,12 @@ Once any one of the verification methods is successful, the user is granted acce
 
    * Ends session and redirects to the login page.
 
----
 
  🔄 System Workflow Summary:
 
 
 Start
+
   ↓
 Enter Account Number & Password
   ↓
@@ -114,20 +108,6 @@ Choose Function (Transfer / Balance / Deposit / Withdraw)
 After operation, choose to Logout or return to Dashboard
   ↓
 End
-```
-
----
-
-## 🛠️ **Tech Stack Suggestions:**
-
-* **Frontend:** HTML/CSS/JavaScript (or React if web-based)
-* **Backend:** Python (Flask or Django), Node.js
-* **Database:** MySQL / MongoDB
-* **Facial Recognition:** OpenCV, dlib, TensorFlow (FaceNet)
-* **Security:** Password hashing, OTP via secure APIs
-* **Hardware (Optional for physical setup):** Raspberry Pi + Camera module
-
----
 
 Would you like a UI/UX wireframe or diagram to visualize this system?
 
